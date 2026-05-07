@@ -1,0 +1,654 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#8099
+    [34mall[39m: [
+      [34;4mApp\Models\Mahasiswa[39;24m {#8100
+        [34mid[39m: [35m1[39m,
+        [34mnim[39m: [32m"[39m[32m03688322[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mBrad Gleason I[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m1485 Friesen Lodge[39m
+          [32mJanellemouth, HI 02438[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8101
+        [34mid[39m: [35m2[39m,
+        [34mnim[39m: [32m"[39m[32m84554140[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDanyka Quitzon[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m4561 Hane Groves Suite 972[39m
+          [32mLake Chet, RI 45249[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8102
+        [34mid[39m: [35m3[39m,
+        [34mnim[39m: [32m"[39m[32m57191402[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mEmiliano Steuber[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m63320 Anderson Fall[39m
+          [32mVeumberg, AR 86572-4172[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8103
+        [34mid[39m: [35m4[39m,
+        [34mnim[39m: [32m"[39m[32m42641472[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mMaynard Cassin[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m80329 Harvey Junction[39m
+          [32mWest Joseborough, DE 19315-9747[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8104
+        [34mid[39m: [35m5[39m,
+        [34mnim[39m: [32m"[39m[32m61351102[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mSantino Funk[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m7865 Kozey Divide Suite 406[39m
+          [32mLake Monroeport, CA 60371[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8105
+        [34mid[39m: [35m6[39m,
+        [34mnim[39m: [32m"[39m[32m13695654[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mProf. Hollis Adams[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m51390 Shayna Isle Apt. 235[39m
+          [32mLake Tara, NV 39172-8754[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8106
+        [34mid[39m: [35m7[39m,
+        [34mnim[39m: [32m"[39m[32m44350529[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mAbigale Farrell[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m885 Josiah Burg Apt. 298[39m
+          [32mNew Tara, KS 01130[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8107
+        [34mid[39m: [35m8[39m,
+        [34mnim[39m: [32m"[39m[32m92829250[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mProf. Garrison Fadel[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m78099 Jacobson Unions[39m
+          [32mElwinview, NJ 95865-6065[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8108
+        [34mid[39m: [35m9[39m,
+        [34mnim[39m: [32m"[39m[32m88609301[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mEarl Robel[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m7636 Ratke Causeway Suite 262[39m
+          [32mEast Kipborough, MO 94952[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8109
+        [34mid[39m: [35m10[39m,
+        [34mnim[39m: [32m"[39m[32m96334067[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mJeremie Prohaska[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m1972 Octavia Corners[39m
+          [32mLake Juston, CO 96940-7133[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8110
+        [34mid[39m: [35m11[39m,
+        [34mnim[39m: [32m"[39m[32m64336281[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mGerry Beer[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m880 Ezekiel Plains[39m
+          [32mSouth Rachelle, KS 31333[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8111
+        [34mid[39m: [35m12[39m,
+        [34mnim[39m: [32m"[39m[32m44312330[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mScottie Armstrong PhD[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m60065 Valentin Way Apt. 468[39m
+          [32mEmieshire, MI 63344-8080[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8112
+        [34mid[39m: [35m13[39m,
+        [34mnim[39m: [32m"[39m[32m12148671[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mBriana Ward[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m67589 Gaetano Wall[39m
+          [32mNew Ginaburgh, VA 59206-0992[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8113
+        [34mid[39m: [35m14[39m,
+        [34mnim[39m: [32m"[39m[32m05349133[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mZack Mante[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m2731 Flo Flats[39m
+          [32mMigueltown, MO 25520-6944[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8114
+        [34mid[39m: [35m15[39m,
+        [34mnim[39m: [32m"[39m[32m60762854[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDr. Ashtyn Anderson I[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m124 Bogisich Unions[39m
+          [32mDooleyhaven, ME 74845-2490[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8115
+        [34mid[39m: [35m16[39m,
+        [34mnim[39m: [32m"[39m[32m54912078[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mElody Schuppe[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m6331 Runolfsson Ridge Apt. 658[39m
+          [32mGrantfort, TX 85852-2529[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8116
+        [34mid[39m: [35m17[39m,
+        [34mnim[39m: [32m"[39m[32m04348469[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDr. Elta Lockman DDS[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m789 Ankunding Dam[39m
+          [32mPort Filomenaport, OK 24102[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8117
+        [34mid[39m: [35m18[39m,
+        [34mnim[39m: [32m"[39m[32m38960623[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mMario Brakus[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m925 Hardy Burgs[39m
+          [32mPort Shannyville, HI 30784-1497[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8118
+        [34mid[39m: [35m19[39m,
+        [34mnim[39m: [32m"[39m[32m08263047[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mOcie Feil[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m729 Hillary Stream[39m
+          [32mSouth Christianabury, NM 44201-3556[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8119
+        [34mid[39m: [35m20[39m,
+        [34mnim[39m: [32m"[39m[32m97134698[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mProf. Alexandre Keebler DVM[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m873 Bernhard Drive Suite 486[39m
+          [32mEast Mckayla, AR 63627-6490[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8120
+        [34mid[39m: [35m21[39m,
+        [34mnim[39m: [32m"[39m[32m55791369[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mImelda Kerluke[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m5461 Lind Expressway[39m
+          [32mHodkiewiczville, AR 28749[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8121
+        [34mid[39m: [35m22[39m,
+        [34mnim[39m: [32m"[39m[32m99171498[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mEnola Koelpin[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m69372 Steuber Turnpike[39m
+          [32mSouth Jay, NE 64208[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8122
+        [34mid[39m: [35m23[39m,
+        [34mnim[39m: [32m"[39m[32m21427907[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDelilah Greenfelder DDS[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m6937 Cathrine Mountain[39m
+          [32mCruickshankside, KS 55825-0146[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8123
+        [34mid[39m: [35m24[39m,
+        [34mnim[39m: [32m"[39m[32m66751899[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mMr. Maximo Schmeler MD[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m8752 Macejkovic Harbor Suite 793[39m
+          [32mMarquesshire, DC 66689-8108[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8124
+        [34mid[39m: [35m25[39m,
+        [34mnim[39m: [32m"[39m[32m74035475[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mFlorida Quigley[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m17590 O'Reilly Summit Suite 393[39m
+          [32mRachellebury, DE 96637-8167[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8125
+        [34mid[39m: [35m26[39m,
+        [34mnim[39m: [32m"[39m[32m22110870[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mAmely Roob[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m653 Kovacek Burgs[39m
+          [32mWest Lea, CA 90881-8922[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8126
+        [34mid[39m: [35m27[39m,
+        [34mnim[39m: [32m"[39m[32m55215388[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mKristina Lind[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m8674 Clementina Harbors[39m
+          [32mEast Oceane, CO 75889[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8127
+        [34mid[39m: [35m28[39m,
+        [34mnim[39m: [32m"[39m[32m33351798[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mEldridge Abbott[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m602 Idella Plaza Suite 888[39m
+          [32mJennyferberg, SD 31128[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8128
+        [34mid[39m: [35m29[39m,
+        [34mnim[39m: [32m"[39m[32m34144607[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDawson Runolfsson[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m7617 Reece Highway Apt. 308[39m
+          [32mEast Rhianna, IN 45647[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8129
+        [34mid[39m: [35m30[39m,
+        [34mnim[39m: [32m"[39m[32m83107112[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDr. Aylin Cruickshank V[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m19213 Carley Street Apt. 501[39m
+          [32mLake Sonnyborough, MS 65265-5256[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8130
+        [34mid[39m: [35m31[39m,
+        [34mnim[39m: [32m"[39m[32m92318465[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mMarty Keeling[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m155 Kenny Mission Apt. 011[39m
+          [32mWest Laylamouth, HI 28756-0087[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8131
+        [34mid[39m: [35m32[39m,
+        [34mnim[39m: [32m"[39m[32m55433878[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mChelsea Vandervort[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m572 Collier Alley[39m
+          [32mHodkiewiczfurt, DE 71040-8699[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8132
+        [34mid[39m: [35m33[39m,
+        [34mnim[39m: [32m"[39m[32m29160893[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDr. Edwardo O'Connell DDS[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m1680 Alec Ramp Apt. 151[39m
+          [32mWest Alva, PA 27082-9400[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8133
+        [34mid[39m: [35m34[39m,
+        [34mnim[39m: [32m"[39m[32m88545492[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mGiovanni Nader[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m414 Gusikowski Rest[39m
+          [32mWest Johnathonbury, DC 44276-8008[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8134
+        [34mid[39m: [35m35[39m,
+        [34mnim[39m: [32m"[39m[32m94889987[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDevante Ebert V[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m7324 Abner Port Suite 863[39m
+          [32mNorth Jayceehaven, AK 05973-7853[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8135
+        [34mid[39m: [35m36[39m,
+        [34mnim[39m: [32m"[39m[32m06912941[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mEra Emmerich[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m392 River Ports[39m
+          [32mO'Keefeland, WI 31382-4436[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8136
+        [34mid[39m: [35m37[39m,
+        [34mnim[39m: [32m"[39m[32m65859774[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mReginald Cole[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m600 Vanessa Springs[39m
+          [32mPort Lois, WI 21510-6011[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8137
+        [34mid[39m: [35m38[39m,
+        [34mnim[39m: [32m"[39m[32m38891246[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mAndres Bernhard[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m962 Wisozk Walks[39m
+          [32mKovacekland, MA 30721-4539[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8138
+        [34mid[39m: [35m39[39m,
+        [34mnim[39m: [32m"[39m[32m05126719[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mChaz Bergstrom[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m343 Hilpert Mall[39m
+          [32mNicoletteville, NH 04610[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8139
+        [34mid[39m: [35m40[39m,
+        [34mnim[39m: [32m"[39m[32m23365050[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mEladio Eichmann[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m21186 Kub Summit Suite 620[39m
+          [32mUllrichview, FL 89125-4457[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8140
+        [34mid[39m: [35m41[39m,
+        [34mnim[39m: [32m"[39m[32m65291507[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDr. Icie Gutmann[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m4309 Tremblay Pines Apt. 167[39m
+          [32mLake Abbey, DE 24278-0948[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8141
+        [34mid[39m: [35m42[39m,
+        [34mnim[39m: [32m"[39m[32m22715051[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDr. Cyrus Toy[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m675 Kuhic Street Apt. 321[39m
+          [32mEdmondtown, KS 83167-1215[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8142
+        [34mid[39m: [35m43[39m,
+        [34mnim[39m: [32m"[39m[32m57006481[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mWestley Metz[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m27737 Joe Point[39m
+          [32mLake Kaneview, MO 14782-6345[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8143
+        [34mid[39m: [35m44[39m,
+        [34mnim[39m: [32m"[39m[32m04107328[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mTre Kautzer[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m61632 Angel Mall Suite 983[39m
+          [32mNew Kaelynmouth, IN 78057[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8144
+        [34mid[39m: [35m45[39m,
+        [34mnim[39m: [32m"[39m[32m16684066[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mFritz Kautzer[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m445 Camilla Parkways[39m
+          [32mEast Eve, OK 58597-0231[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8145
+        [34mid[39m: [35m46[39m,
+        [34mnim[39m: [32m"[39m[32m51701572[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mSandy Larkin V[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mCuti[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m97795 Robel Unions[39m
+          [32mAubreebury, KY 89818-5340[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8146
+        [34mid[39m: [35m47[39m,
+        [34mnim[39m: [32m"[39m[32m87752055[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mCatharine Donnelly[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m595 Paxton Crest Suite 723[39m
+          [32mWest Cleo, OH 01198[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8147
+        [34mid[39m: [35m48[39m,
+        [34mnim[39m: [32m"[39m[32m28033417[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mJodie Osinski[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m636 Ruecker Meadows[39m
+          [32mJacintoshire, NV 68018[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8148
+        [34mid[39m: [35m49[39m,
+        [34mnim[39m: [32m"[39m[32m82387536[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mAmalia Spencer[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mAktif[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m373 Sally Trail Suite 448[39m
+          [32mEast Kody, NY 91992-0918[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Mahasiswa[39;24m {#8149
+        [34mid[39m: [35m50[39m,
+        [34mnim[39m: [32m"[39m[32m43997868[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mDr. Hiram Schuppe IV[39m[32m"[39m,
+        [34mprogram_studi[39m: [32m"[39m[32mTeknologi Informasi[39m[32m"[39m,
+        [34mstatus[39m: [32m"[39m[32mLulus[39m[32m"[39m,
+        [34malamat[39m: <<<[32mEOS[39m
+          [32m8527 Schmidt Fort Apt. 987[39m
+          [32mMaritzahaven, ME 23949-3068[39m
+          [32mEOS[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-04-24 15:59:10[39m[32m"[39m,
+      },
+    ],
+  }
