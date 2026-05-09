@@ -1,4 +1,4 @@
-``
+```
 all@ubuntu-system:~/pemrograman/laravel/sistem_ekskul$ php artisan make:migration create_siswa_ekskul_table
 
    INFO  Migration [database/migrations/2026_05_07_120014_create_siswa_ekskul_table.php] created successfully.  
